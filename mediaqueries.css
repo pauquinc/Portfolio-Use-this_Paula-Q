@@ -1,7 +1,7 @@
 @media screen and (max-width: 1400px) {
     #profile {
-        height: 83vh;
-        margin-bottom: 6rem;
+        height: 86vh;
+        margin-bottom: 5rem;
     }
 
     .about-containers {
@@ -25,10 +25,10 @@
     }
 }
 
-/* #profile,
+#profile,
 .section-container {
     display: block;
-} */
+} 
 
 section,
 .section-container {

@@ -204,12 +204,6 @@ section{
     height: 80vh;
 }
 
-.section__pic-container{
-    display: flex;
-    height: 400px;
-    width: 400px;
-    margin: auto 0;
-}
 
 .section__text{
     align-self:center;
@@ -222,7 +216,9 @@ section{
 
 .section__text__p1{
     text-align: center;
+    margin-top: 50px;
 }
+
 
 .section__text__p2{
     font-size: 1.50rem;
@@ -355,9 +351,14 @@ color: white;
 }
 
 .section__pic-container{
-    height: 400px;
+    /* height: 400px;
     width: 400px;
     margin: auto 0;
+    display: block;
+    margin: auto;
+    width: 50%;   */
+    display: flex;
+    justify-content: center;
 }
 
 /* Experience container */

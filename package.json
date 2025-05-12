@@ -1,0 +1,20 @@
+{
+  "name": "portfolio-use-this_paula-q",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauquinc/Portfolio-Use-this_Paula-Q.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauquinc/Portfolio-Use-this_Paula-Q/issues"
+  },
+  "homepage": "https://github.com/pauquinc/Portfolio-Use-this_Paula-Q#readme"
+}
