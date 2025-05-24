@@ -184,7 +184,7 @@ transform: rotate(-45deg) translate(10px, -5px);
 /* Sections */
 section{
     padding-top: 4vh;
-    /* height: 96vh; */
+    height: 96vh;
     /* height: 70vh; */
     margin: 0 10rem;
     box-sizing: border-box;
@@ -344,21 +344,19 @@ color: white;
     border-color: rgb(163, 163, 163);
     text-align: center;
 }
-
+ 
 .section-container{
     gap:4rem;
     height:80%
 }
 
 .section__pic-container{
-    /* height: 400px;
+    display: flex;
+    height: 400px;
     width: 400px;
     margin: auto 0;
-    display: block;
-    margin: auto;
-    width: 50%;   */
-    display: flex;
-    justify-content: center;
+    /* width: 50%;  
+    justify-content: center; */
 }
 
 /* Experience container */
